@@ -11,8 +11,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class FacebookAPI {
-	private static String CLIENT_ID = "693810394374991";
-	private static String CLIENT_SECRET = "3445b77cba536a5de4ea6ca00ba8c138";
+	private static String CLIENT_ID = "앱아이디";		// 6938103943749XX 머 이런거
+	private static String CLIENT_SECRET = "앱시크릿";		// 3445b77cba536a5de4ea6ca00ba8c1XX 머 이런거
 	
 	
 	public static void main(String [] args) {
